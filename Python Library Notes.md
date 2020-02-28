@@ -16,7 +16,7 @@ Now you can move around the directories by using the following command
 
 Next Try hitting `ls`
 
-ls tells the computer to list all items in the directory.  Your name will be in there so move to that directory see below example
+ls tells the computer to *list* all items in the directory.  Your name will be in there so move to that directory see below example
 
 `cd homersimpson`
 
