@@ -28,3 +28,6 @@ Since the coming of the operating system there is a way for users to interact wi
     Examples of bad design
     - [Harbor Freight](https://www.harborfreight.com)   
     - [Pacific NW Xray](http://www.pnwx.com/)
+
+
+4. **With Moore's Law in mind, how do you think we will be interfacing with machines in 10 years?**
