@@ -1,4 +1,5 @@
-# Notes on Tkinter
+<p align=center>Notes on Tkinter</p>
+
 
 ## What is Tkinter?
 Tkinter is Python's de-facto standard GUI (Graphical User Interface) package. It is a thin object-oriented layer on top of [Tcl/Tk](http://tcl.tk).
