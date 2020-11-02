@@ -1,0 +1,11 @@
+
+# functional programming
+
+def my_new_function(width,height):
+  area = width*height
+  return area
+
+user_width = int(input("Enter width"))
+user_height = int(input("Enter height"))
+
+print(my_new_function(user_width,user_height))
