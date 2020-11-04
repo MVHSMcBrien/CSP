@@ -1,5 +1,5 @@
 
-# functional programming
+# functional programming quiz
 
 def my_new_function(width,height):
   area = width*height
